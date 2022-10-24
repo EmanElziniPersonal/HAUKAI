@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Restricted access"​
-AuthUserFile "/HAUKAI/.htpasswd"
-Require valid-user​
